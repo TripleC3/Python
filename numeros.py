@@ -10,5 +10,3 @@ elif numero_1 == numero_2:
 else:
     print(numero_1,'es mayor que',numero_2)
 print('----------------------------')
-if numero_1 == int():
-    print('wii')
