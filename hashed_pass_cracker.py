@@ -21,6 +21,7 @@ def decorator(ugly_list):
     return "".join(ugly_list)
 
 
+# Fastest < Slowest / Weakest < Strongest
 # blake2s < md5 < sha1 < sha224 < sha256 < blake2b < sha384 < sha3_224 < sha512 < sha3_256 < sha3_384 < sha3_512
 def encrypt_password(password_str, encryption_type_str):
     if encryption_type_str == "md5":
