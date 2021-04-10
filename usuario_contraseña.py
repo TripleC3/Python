@@ -1,6 +1,0 @@
-usuario = input('Elige tu usuario: ')
-contraseña = input('Elige tu contraseña: ')
-print('Tu usuario y contraseña son',usuario,'y',contraseña)
-confirmacion = input('Confirmar (Y/N): ')
-if confirmacion == 'Y': print('Bienvenido')
-if confirmacion == 'N': print('Vuelve a intentarlo')
