@@ -1,5 +1,10 @@
 # Proyectos de Python 3
 
+### The Binding of Isaac bot
+>/Isaac Bot/bot.py
+
+Un bot para el videojuego The Binding of Isaac, con el código en Español, que se centra en la búsqueda de imágenes en pantalla, escalable a cualquier resolución, y el control del teclado.
+
 ### Buscador en maps 
 >buscador_mapa.py
 
